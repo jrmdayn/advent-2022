@@ -1,3 +1,3 @@
-import { day7 } from './day7';
+import { day8 } from './day8';
 
-console.log(day7());
+console.log(day8());
